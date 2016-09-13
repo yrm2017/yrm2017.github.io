@@ -28,8 +28,10 @@ with coffee breaks in ...
 
 ## Getting there
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1HSLv0ilbKzNDw8KlDiLCmNwlhfg&hl=en" width="640" 
-        width="95%" height=400 frameborder=0 style:"border:0"></iframe>
+{::nomarkdown}
+<iframe src="https://www.google.com/maps/d/embed?mid=1HSLv0ilbKzNDw8KlDiLCmNwlhfg&hl=en" width="640" width="95%" height=400 frameborder=0 style:"border:0"></iframe>
+{:/nomarkdown}
+
 
  * **By plane:** Travel either via [Reus Airport](http://www.reus-airport.es/) (10 minutes to Tarragona) or
    [Barcelona el Prat](http://www.barcelona-airport.com/) (1h to Tarragona via [bus or train](https://www.barcelona-tourist-guide.com/en/airport/transfers/transfer-barcelona-airport-tarragona.html))
