@@ -4,7 +4,13 @@ layout: default
 
 <div class="home">
 
-{% markdown home.md %}
+<!-- plugins not supported by github due to security restrictions
+     see https://github.com/jekyll/jekyll/issues/325
+{% markdown home.md %} 
+-->
+
+{% capture my-include %}{% include home.md %}{% endcapture %}
+{{ my-include | markdownify }}
 
 <!--
 <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
