@@ -1,0 +1,54 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: "The 14th ETSF Young Researchers' Meeting"
+email: leopold.talirz@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://yrm2017.github.io" # the base hostname & protocol for your site
+#twitter_username: jekyllrb
+github_username:  yrm2017
+
+# Build settings
+#markdown: kramdown
+markdown: redcarpet
+highlighter: rygments
+gems:
+  - jemoji
+  - jekyll-paginate
+
+
+#blog logo
+logo: "/assets/images/logo.png"
+# blog cover
+cover: "/assets/images/blackboard.jpg"
+name: 'YRM 2017'
+author: 'YRM 2017'
+author_image: "/assets/images/logo.png"
+paginate:   3
+
+
+# Site settings
+#description: New frontiers in modelling electronic interactions from confined systems to complex aggregates<br>
+#     6th till the 10th of June 2016, King's College London, London, UK
+#email:  yrm-info@kcl.ac.uk
+#used to display twitter cards
+# twitter_handle: '@dirkfabisch'
+#fill in disqus shortname to use disqus
+#disqus: disqus-shortname
+
+#social:
+# - icon: facebook
+#   url:    https://www.facebook.com/YRM2016
+#   desc: Find us on facebook
+#   share_url: https://www.facebook.com/sharer.php
+#   share_title: ?t=
+#   share_link: "&amp;u="
