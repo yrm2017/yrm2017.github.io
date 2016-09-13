@@ -28,12 +28,14 @@ gems:
 
 
 #blog logo
-logo: "/assets/images/logo.png"
+logo: "./assets/images/Logo-yrm-etsf3.png"
 # blog cover
-cover: "/assets/images/blackboard.jpg"
+cover: "./assets/images/Logo-yrm-etsf3.png"
+#cover: "/assets/images/blackboard.jpg"
 name: 'YRM 2017'
 author: 'YRM 2017'
-author_image: "/assets/images/logo.png"
+author_image: "./assets/images/Logo-yrm-etsf3.png"
+#author_image: "/assets/images/logo.png"
 paginate:   3
 
 
