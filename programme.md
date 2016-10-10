@@ -32,10 +32,9 @@ The coupling between atomic vibrations and the electronic structure of materials
 Recent years have seen advances in the ab initio prediction of thermal and electronic conductivity, Tc in phonon-driven superconductivity as well as the impact of electron-phonon coupling on the optical spectra and electronic bandstructure of semiconductors and insulators.
 
 * Session 5: **Quantum transport and electron dynamics**<br>
-  <i>Chair to be announced</i><br>
+  <i>Introduced and chaired by Dr. Davide Sangalli (ISM Rome, Italy)</i><br>
 The prediction of current/voltage characteristics for nanoscale junctions as well as understanding the charge and exciton dynamics in catalysts and photovoltaic materials are of key technological relevance. Yet, their prediction is notoriously challenging - DFT-based approaches suffer from self-interaction and lack of dynamic correlation, which can lead to gross overestimation of conductance in molecular junctions.
-Efforts to overcome these challenges include explicit treatment of correlations within ab initio GW or solving the generalized Kadanoff-Baym equations in model systems.
-
+Efforts to overcome these challenges include explicit treatment of correlation either by looking for better TDDFT functionals or by exploring non-equilibrium many-body approaches in exactly solvable model systems. More recently, non-equilibrium many-body approaches are also being applied to molecules and extended systems.
 
 A day will be dedicated to talks given by researchers from the private sector.
 

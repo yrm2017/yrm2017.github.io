@@ -40,10 +40,10 @@ and industrial research.
 
 ## Previous YRMs
 * [13th ETSF YRM, London (England),  6-10 June 2016](https://yrm2016.github.io/)
-* [12th ETSF YRM, Paris (France),  1-6 June 2015](http://etsf.polytechnique.fr/yrm2015/)
+* 12th ETSF YRM, Paris (France),  1-6 June 2015
 * [11th ETSF YRM, Rome (Italy),  12-16 May 2014](http://etsf_yrm2014.roma2.infn.it/home.html)
-* [10th ETSF YRM, Budapest (Hungary),  20-24 May 2013](http://etsf.polytechnique.fr/yrm2013/)
-* [9th ETSF YRM, Brussels (Belgium),  21-25 May 2012](http://yrm2012.etsf.eu/)
+* 10th ETSF YRM, Budapest (Hungary),  20-24 May 2013
+* 9th ETSF YRM, Brussels (Belgium),  21-25 May 2012
 * 8th ETSF YRM, Naples (Italy),  16-20 May 2011
 * [7th ETSF YRM, Jyväskylä (Finland),  30 May - 4 June 2010](https://www.jyu.fi/fysiikka/en/research/conferences/yrm2010/)
 * 6th ETSF YRM, Berlin (Germany),  2-6 June 2009

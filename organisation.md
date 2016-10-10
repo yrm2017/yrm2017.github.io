@@ -4,7 +4,7 @@ title: Organisers
 permalink: /organisers/
 image: /assets/images/maxresdefault.jpg
 ---
-## Organising Board
+## Organising Committee
 <b></b>
 
 * **Dr. Damien Cornu**, Postdoc, ICIQ, Tarragona, Spain
@@ -13,14 +13,19 @@ image: /assets/images/maxresdefault.jpg
 * **Sriram P. Ramkumar**, Ph.D. student, Catholic University of Louvain, Louvain-la-Neuve, Belgium
 * **[Dr. Leopold Talirz](mailto:leopold.talirz@york.ac.uk)**, Postdoc, University of York, Heslington, UK
 
-## Scientific Board
+## Scientific Committee
 <b></b>
 
+* **Dr. Phil Hasnip** Postdoc, University of York, Heslington, UK
+
+<!--
+## Keynote speakers
 * **Dr. Michiel van Setten**,   Postdoc, Catholic University of Louvain, Louvain-la-Neuve, Belgium
 * **Dr. Samuel Poncé**, Postdoc, University of Oxford, United Kingdom
 * **Dr. Hugo Strand**, Postdoc, University of Fribourg, Switzerland
 * **Dr. Jose A. Flores Livas**, Postdoc, University of Basel, Switzerland
-* **Dr. X**, to be announced
+* **Dr. Davide Sangalli**, Researcher, ISM Rome, Italy
+//-->
 
 ## Supporting organisers
 <b></b>
