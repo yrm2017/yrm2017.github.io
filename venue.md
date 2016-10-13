@@ -7,19 +7,13 @@ image: /assets/images/maxresdefault.jpg
 ## The conference venue
 The ETSF YRM 2017 will be held at the [Institut Catala d'Investigacio
 Quimica](http://www.iciq.org/) (ICIQ) in Tarragona, Spain.
-The ICIQ is a new research institute supporting multidisciplinary research (main
-areas: catalysis and renewable energies), which has already attracted 11 ERC
-grants since assuming operations in 2004.
+ICIQ (www.iciq.org) is a newly established research institute focused on
+becoming a centre of excellence for chemistry. Its objectives include to
+facilitate knowledge and technology transfer to chemical, pharmaceutical and
+energy industrial sectors as well as to train the future generation of
+scientists in the field.
 
-Tarragona is a popular tourist destination, located south of Barcelona
-at the mediterranean sea.
-Having been the capital of the "Nearer Spain" province during the Roman
-republic, it has a rich cultural and archeological history, including a UNESCO
-world heritage site.
-
-
-Talks will take place in ...
-with coffee breaks in ...
+Further details will be made available here...
 
 <!--
 ![The strand campus](../assets/images/campus_small.png)
@@ -28,13 +22,20 @@ with coffee breaks in ...
 
 ## Getting there
 
+Tarragona is a popular tourist destination, located southwest of Barcelona
+at the mediterranean sea.
+Having served as the capital of the "Nearer Spain" province during the Roman
+republic, it has a rich cultural and archeological history, including a UNESCO
+world heritage site.
+
+
 {::nomarkdown}
 <iframe src="https://www.google.com/maps/d/embed?mid=1HSLv0ilbKzNDw8KlDiLCmNwlhfg&hl=en" width="640" width="95%" height=400 frameborder=0 style:"border:0"></iframe>
 {:/nomarkdown}
 
 
  * **By plane:** Travel either via [Reus Airport](http://www.reus-airport.es/) (10 minutes to Tarragona) or
-   [Barcelona el Prat](http://www.barcelona-airport.com/) (1h to Tarragona via [bus or train](https://www.barcelona-tourist-guide.com/en/airport/transfers/transfer-barcelona-airport-tarragona.html))
+   [Barcelona el Prat](http://www.barcelona-airport.com/) (65 min [by bus](http://www.busplana.com/new2013/en/) from terminal 1 to Tarragona, Imperial Tarraco)
  * **By train:**
 
 ## Accomodation

@@ -17,6 +17,8 @@ image: /assets/images/maxresdefault.jpg
 <b></b>
 
 * **Dr. Phil Hasnip** Postdoc, University of York, Heslington, UK
+* **Dr. Matteo Guzzo** Postdoc, Humboldt University of Berlin, Berlin, UK
+* **Dr. Andrés Rafael Botello Mendez** Research associate, University of Cambridge, Cambridge, UK
 
 <!--
 ## Keynote speakers
