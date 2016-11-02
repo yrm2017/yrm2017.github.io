@@ -4,6 +4,16 @@ title: Programme
 permalink: /program/
 image: /assets/images/maxresdefault.jpg
 ---
+## Schedule
+
+A detailed schedule will be announced as soons as it becomes available.
+
+<!-- Uncomment to show Google spreadsheet schedule
+{::nomarkdown}
+<iframe src="https://docs.google.com/spreadsheets/d/13p7b-EDX44qkK4GBq4wVI6Cq4qYq07edYltT4IFmZd8/pubhtml?widget=true&amp;headers=false&amp;rm=minimal"  width="610" height=580 frameborder=0 style:"border:0"></iframe>
+{:/nomarkdown}
+-->
+
 ## Topical sessions
 <b></b>
 
@@ -36,10 +46,10 @@ Recent years have seen advances in the ab initio prediction of thermal and elect
 The prediction of current/voltage characteristics for nanoscale junctions as well as understanding the charge and exciton dynamics in catalysts and photovoltaic materials are of key technological relevance. Yet, their prediction is notoriously challenging - DFT-based approaches suffer from self-interaction and lack of dynamic correlation, which can lead to gross overestimation of conductance in molecular junctions.
 Efforts to overcome these challenges include explicit treatment of correlation either by looking for better TDDFT functionals or by exploring non-equilibrium many-body approaches in exactly solvable model systems. More recently, non-equilibrium many-body approaches are also being applied to molecules and extended systems.
 
-A day will be dedicated to talks given by researchers from the private sector.
-
-The detailed program will be announced as soon as possible.
-
+In addition to the scientific sessions listed above, the meeting will include a
+session on **the future of scientific publishing** as well as one day dedicated to
+**talks by researchers from the private sector**, who will share their experience
+of working in a non-academic setting.
 
 <!-- 
 A non-scientific talk on gender-issue on computational science is also scheduled.
