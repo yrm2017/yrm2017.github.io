@@ -32,9 +32,9 @@ world heritage site.
 
  * **By plane via Reus Airport:** [Reus Airport](http://www.reus-airport.es/) (REU) is located just 10 minutes from Tarragona and particularly well connected to the UK
  * **By plane via Barcelona Airport:** [Barcelona el Prat](http://www.barcelona-airport.com/) (BCN) is Spain's second largest airport. Tarragona can be reached in 65 minutes via a [bus service](http://www.busplana.com/new2013/en/) leaving from terminal 1 (alight at Tarragona, Imperial Tarraco)
- * **By train:**
+ * **By train:** Tarragona has a [renfe](http://www.renfe.com/EN/viajeros/) station. When travelling from Central Europe, trains will likely go through Barcelona.
 
-## Accomodation
+## Accommodation
 
 To be announced
 
