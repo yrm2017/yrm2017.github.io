@@ -7,17 +7,16 @@
 
 # Site settings
 #title: "The 14th ETSF Young Researchers' Meeting"
-#title: "ETSF Young Researchers' Meeting 2017 @ Tarragona"
-#title: "ETSF Young Researchers' Meeting 2017"
 title: "ETSF YRM 2017"
-email: leopold.talirz@gmail.com
+email: etsf.yrm2017@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   The 14th ETSF Young Researchers' Meeting,
   taking place June 5-9 2017 in Tarragona, Spain.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://yrm2017.github.io" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
-github_username:  yrm2017
+#github_username:  yrm2017
+facebook_username: yrm2017
 
 # Build settings
 markdown: kramdown # redcarpet not supported by github.io
@@ -28,20 +27,18 @@ gems:
 
 
 #blog logo
-logo: "./assets/images/Logo-yrm-etsf3.png"
+logo: '/assets/images/logo.png'
 # blog cover
-cover: "./assets/images/Logo-yrm-etsf3.png"
+cover: "/assets/images/Logo-yrm-etsf3.png"
 #cover: "/assets/images/blackboard.jpg"
 name: 'YRM 2017'
 author: 'YRM 2017'
-author_image: "./assets/images/Logo-yrm-etsf3.png"
+author_image: "/assets/images/Logo-yrm-etsf3.png"
 #author_image: "/assets/images/logo.png"
 paginate:   3
 
 
 # Site settings
-#description: New frontiers in modelling electronic interactions from confined systems to complex aggregates<br>
-#     6th till the 10th of June 2016, King's College London, London, UK
 #email:  yrm-info@kcl.ac.uk
 #used to display twitter cards
 # twitter_handle: '@dirkfabisch'
@@ -50,7 +47,7 @@ paginate:   3
 
 #social:
 # - icon: facebook
-#   url:    https://www.facebook.com/YRM2016
+#   url: https://www.facebook.com/yrm2017
 #   desc: Find us on facebook
 #   share_url: https://www.facebook.com/sharer.php
 #   share_title: ?t=

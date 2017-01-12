@@ -16,9 +16,10 @@ image: /assets/images/maxresdefault.jpg
 ## Scientific Committee
 <b></b>
 
-* **Dr. Phil Hasnip** Postdoc, University of York, Heslington, UK
-* **Dr. Matteo Guzzo** Postdoc, Humboldt University of Berlin, Berlin, Germany
+* **Dr. Neyvis Almora-Barrios** Postdoc, ICIQ, Tarragona, Spain
 * **Dr. Andrés Rafael Botello Mendez** Research associate, University of Cambridge, Cambridge, UK
+* **Dr. Matteo Guzzo** Postdoc, Humboldt University of Berlin, Berlin, Germany
+* **Dr. Phil Hasnip** Postdoc, University of York, Heslington, UK
 
 <!--
 ## Keynote speakers
