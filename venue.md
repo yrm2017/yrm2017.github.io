@@ -3,6 +3,7 @@ layout: page
 title: Venue
 permalink: /venue/
 image: /assets/images/maxresdefault.jpg
+order: 2
 ---
 ## The conference venue
 The ETSF YRM 2017 will be held at the [Institut Catala d'Investigacio
@@ -35,5 +36,8 @@ world heritage site.
 
 ## Accommodation
 
+Hotel SB Express
+
+Way to ICIQ: Take [Bus 54](http://emtanemambtu.cat/detalldelineas/?linecode=54&viewdetail=horaris) from Francesc Macià to Joan Serra 
 To be announced
 

@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about/
 image: /assets/images/maxresdefault.jpg
+order: 10
 ---
 ## What is the ETSF YRM?
 

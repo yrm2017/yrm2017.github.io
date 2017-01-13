@@ -1,3 +1,5 @@
+{% assign pages = site.pages | sort:"order" %}
+
 <header class="site-header">
 
   <div class="wrapper">
@@ -17,11 +19,17 @@
       </a>
 
       <div class="trigger">
-        {% for my_page in site.pages %}
+        {% for my_page in pages %}
           {% if my_page.title %}
           <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
           {% endif %}
         {% endfor %}
+        {% if site.email %}
+        <a class="page-link" href="mailto:{{ site.email }}"><img src="{{ '/assets/images/icon-email.png' | prepend: site.baseurl }}" height=20px></a>
+        {% endif %}
+        {% if site.facebook_username %}
+            <a href="https://www.facebook.com/{{ site.facebook_username }}"><span class="icon icon--facebook">{% include icon-facebook.svg %}</span></a>
+        {% endif %}
       </div>
     </nav>
 
