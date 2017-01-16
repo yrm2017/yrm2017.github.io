@@ -36,8 +36,10 @@ world heritage site.
 
 ## Accommodation
 
-Hotel SB Express
+{::nomarkdown}
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1269EvpMrxSjiWtrQuLJ9FT8tozw" width="640" width="95%" height=400 frameborder=0 style:"border:0"></iframe>
+{:/nomarkdown}
 
-Way to ICIQ: Take [Bus 54](http://emtanemambtu.cat/detalldelineas/?linecode=54&viewdetail=horaris) from Francesc Macià to Joan Serra 
-To be announced
+ * Participants will be hosted at [Hotel SB Express Tarragona](http://www.hotelexpresstarragona.com/en/) (see [Tripadvisor](https://www.tripadvisor.com/Hotel_Review-g187503-d260682-Reviews-Hotel_SB_Express_Tarragona-Tarragona_Costa_Dorada_Province_of_Tarragona_Catalonia.html)).
+ * Way to ICIQ: Take [Bus 54](http://emtanemambtu.cat/detalldelineas/?linecode=54&viewdetail=horaris) from Francesc Macià to Joan Serra  (or walk, if you feel like it!)
 
