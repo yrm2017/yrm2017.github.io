@@ -6,8 +6,8 @@ image: /assets/images/maxresdefault.jpg
 order: 2
 ---
 ## The conference venue
-The ETSF YRM 2017 will be held at the [Institut Catala d'Investigacio
-Quimica (ICIQ)](http://www.iciq.org/) in Tarragona, Spain.
+The ETSF YRM 2017 will be held at the [Institut Català d'Investigació
+Química (ICIQ)](http://www.iciq.org/) in Tarragona, Spain.
 ICIQ is a newly established research institute focused on becoming a centre of
 excellence for chemistry. Its objectives include to facilitate knowledge and
 technology transfer to chemical, pharmaceutical and energy industrial sectors
