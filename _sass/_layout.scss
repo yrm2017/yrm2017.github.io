@@ -131,10 +131,21 @@
     width:         calc(35% - (#{$spacing-unit} / 2));
 }
 
+.footer-col-1-mod {
+    width: -webkit-calc(30% - (#{$spacing-unit} / 2));
+    width:         calc(30% - (#{$spacing-unit} / 2));
+}
+
 .footer-col-2 {
     width: -webkit-calc(20% - (#{$spacing-unit} / 2));
     width:         calc(20% - (#{$spacing-unit} / 2));
 }
+
+.footer-col-2-mod {
+    width: -webkit-calc(70% - (#{$spacing-unit} / 2));
+    width:         calc(70% - (#{$spacing-unit} / 2));
+}
+
 
 .footer-col-3 {
     width: -webkit-calc(45% - (#{$spacing-unit} / 2));
@@ -152,6 +163,12 @@
         width: -webkit-calc(100% - (#{$spacing-unit} / 2));
         width:         calc(100% - (#{$spacing-unit} / 2));
     }
+}
+
+
+img.sponsor {
+    height: 80px;
+    padding-right: 10px;
 }
 
 @include media-query($on-palm) {
