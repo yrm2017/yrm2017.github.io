@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   width="861.76318"
+   height="385.19943"
+   viewBox="0 0 861.7632 385.19943"
+   sodipodi:docname="logo.svg"
+   inkscape:export-filename="yrm2016_v05_e.png"
+   inkscape:export-xdpi="100.00014"
+   inkscape:export-ydpi="100.00014">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4366">
+      <stop
+         style="stop-color:#ff0000;stop-opacity:1"
+         offset="0"
+         id="stop4369" />
+      <stop
+         id="stop4371"
+         offset="0.24206381"
+         style="stop-color:#f5f50a;stop-opacity:1" />
+      <stop
+         id="stop4373"
+         offset="0.51055306"
+         style="stop-color:#f5f50a;stop-opacity:1" />
+      <stop
+         style="stop-color:#f5f50a;stop-opacity:1"
+         offset="0.74135083"
+         id="stop4375" />
+      <stop
+         style="stop-color:#ff0000;stop-opacity:1"
+         offset="1"
+         id="stop4377" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4327">
+      <stop
+         style="stop-color:#ff0000;stop-opacity:1"
+         offset="0"
+         id="stop4329" />
+      <stop
+         id="stop4331"
+         offset="0.180384"
+         style="stop-color:#f0f00f;stop-opacity:1" />
+      <stop
+         id="stop4333"
+         offset="0.51055306"
+         style="stop-color:#f0f00f;stop-opacity:1" />
+      <stop
+         style="stop-color:#f0f00f;stop-opacity:1"
+         offset="0.78530097"
+         id="stop4335" />
+      <stop
+         style="stop-color:#ff0000;stop-opacity:1"
+         offset="1"
+         id="stop4337" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4308">
+      <stop
+         style="stop-color:#ff0000;stop-opacity:1"
+         offset="0"
+         id="stop4310" />
+      <stop
+         id="stop4312"
+         offset="0.2497362"
+         style="stop-color:#f0f00f;stop-opacity:1" />
+      <stop
+         id="stop4314"
+         offset="0.51055306"
+         style="stop-color:#f0f00f;stop-opacity:1" />
+      <stop
+         style="stop-color:#f0f00f;stop-opacity:1"
+         offset="0.76864415"
+         id="stop4316" />
+      <stop
+         style="stop-color:#ff0000;stop-opacity:1"
+         offset="1"
+         id="stop4318" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4265"
+       inkscape:collect="always">
+      <stop
+         id="stop4267"
+         offset="0"
+         style="stop-color:#ff0000;stop-opacity:1" />
+      <stop
+         style="stop-color:#f0f00f;stop-opacity:1"
+         offset="0.26529217"
+         id="stop4269" />
+      <stop
+         style="stop-color:#f0f00f;stop-opacity:1"
+         offset="0.51055306"
+         id="stop4271" />
+      <stop
+         id="stop4273"
+         offset="0.72586524"
+         style="stop-color:#f0f00f;stop-opacity:1" />
+      <stop
+         id="stop4275"
+         offset="1"
+         style="stop-color:#ff0000;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4423">
+      <stop
+         style="stop-color:#ff0000;stop-opacity:1"
+         offset="0"
+         id="stop4425" />
+      <stop
+         id="stop4427"
+         offset="0.26529217"
+         style="stop-color:#ebeb14;stop-opacity:1" />
+      <stop
+         id="stop4429"
+         offset="0.51055306"
+         style="stop-color:#ebeb14;stop-opacity:1" />
+      <stop
+         style="stop-color:#ebeb14;stop-opacity:1"
+         offset="0.72586524"
+         id="stop4431" />
+      <stop
+         style="stop-color:#ff0000;stop-opacity:1"
+         offset="1"
+         id="stop4433" />
+    </linearGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4314">
+      <rect
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:10.31000042;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4316"
+         width="1320.2339"
+         height="402.10168"
+         x="1415.733"
+         y="-541.16187" />
+    </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4423"
+       id="linearGradient4480"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.81581612,0,0,0.81581612,-1116.7291,-4782.4542)"
+       x1="3173.5139"
+       y1="308.53137"
+       x2="2449.7307"
+       y2="308.53137" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4423"
+       id="linearGradient4503"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.77769944,0,0,0.77769944,-194.47744,-5407.392)"
+       x1="3173.5139"
+       y1="308.53137"
+       x2="2449.7307"
+       y2="308.53137" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4265"
+       id="linearGradient4522"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.160815,0,0,1.160815,-66.750833,-5026.2315)"
+       x1="2703.6008"
+       y1="308.53137"
+       x2="2449.7307"
+       y2="308.53137" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4308"
+       id="linearGradient4281"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.2512047,0,0,1.2512047,-2955.154,-5233.4397)"
+       x1="2905.5254"
+       y1="308.53137"
+       x2="2449.7307"
+       y2="308.53137" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4265"
+       id="linearGradient4306"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.932684,0,0,1.932684,-4595.7858,-5967.9067)"
+       x1="2715.8591"
+       y1="308.53137"
+       x2="2449.7307"
+       y2="308.53137" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4327"
+       id="linearGradient4325"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.0578026,0,0,2.0578026,-3301.1135,-5372.3296)"
+       x1="2703.6008"
+       y1="308.53137"
+       x2="2449.7307"
+       y2="308.53137" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4366"
+       id="linearGradient4359"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.1383721,0,0,1.1383721,929.22077,-5004.8528)"
+       x1="2952.9802"
+       y1="308.53137"
+       x2="2449.7307"
+       y2="308.53137" />
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1992"
+     inkscape:window-height="1021"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="0.29843198"
+     inkscape:cx="587.3267"
+     inkscape:cy="768.47202"
+     inkscape:window-x="71"
+     inkscape:window-y="1"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g4186"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <g
+     id="g4186"
+     transform="matrix(0.53416426,0,0,0.53416426,-1691.1967,-1915.8606)">
+    <image
+       sodipodi:absref="/Users/leoteo/Personal/Programmierung/Websites/htdocs/yrm2017/yrm2017/assets/images/F1-M1-L.png"
+       xlink:href="F1-M1-L.png"
+       transform="matrix(0,-0.51675294,-0.51675294,0,3050.8922,1385.2211)"
+       y="-520.43158"
+       x="1492.4576"
+       id="image4445"
+       preserveAspectRatio="none"
+       height="690"
+       width="1171"
+       clip-path="url(#clipPath4314)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:76.10290527px;line-height:0%;font-family:Arial;-inkscape-font-specification:'Arial Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="3327.3596"
+       y="605.4892"
+       id="text4447"
+       sodipodi:linespacing="0%"><tspan
+         sodipodi:role="line"
+         id="tspan4449"
+         x="3327.3596"
+         y="605.4892"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:761.02905273px;line-height:0%;font-family:'Britannic Bold';-inkscape-font-specification:'Britannic Bold, ';letter-spacing:-20px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none">YRM</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4277"
+       y="-4751.4692"
+       x="87.779488"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:27.02673912px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial Bold';letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient4281);fill-opacity:1;stroke:none;stroke-width:4.70080137;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       xml:space="preserve"
+       transform="matrix(0,1,-1,0,0,0)"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:270.26745605px;font-family:'Marker Felt';-inkscape-font-specification:'Marker Felt';fill:url(#linearGradient4281);fill-opacity:1;stroke:none;stroke-width:4.70080137;stroke-miterlimit:4;stroke-dasharray:none"
+         y="-4751.4692"
+         x="87.779488"
+         id="tspan4279"
+         sodipodi:role="line">2017</tspan></text>
+    <image
+       sodipodi:absref="/Users/leoteo/Personal/Programmierung/Websites/htdocs/yrm2017/yrm2017/assets/images/F1-M1-L.png"
+       xlink:href="F1-M1-L.png"
+       clip-path="url(#clipPath4314)"
+       width="1171"
+       height="690"
+       preserveAspectRatio="none"
+       id="image4468"
+       x="1492.4576"
+       y="-520.43158"
+       transform="matrix(0,-0.51675294,-0.51675294,0,3068.6351,2183.652)" />
+    <text
+       sodipodi:linespacing="0%"
+       id="text4470"
+       y="1403.92"
+       x="3345.1025"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:76.10290527px;line-height:0%;font-family:BOOTLE;-inkscape-font-specification:BOOTLE;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:761.02905273px;line-height:0%;font-family:BOOTLE;-inkscape-font-specification:BOOTLE;letter-spacing:-93.60416412px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         y="1403.92"
+         x="3345.1025"
+         id="tspan4472"
+         sodipodi:role="line">YRM</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4474"
+       y="-4468.1978"
+       x="867.33838"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.62209702px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial Bold';letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient4480);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       transform="matrix(0,1,-1,0,0,0)"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:176.22099304px;font-family:Braggadocio;-inkscape-font-specification:Braggadocio;fill:url(#linearGradient4480);fill-opacity:1"
+         y="-4468.1978"
+         x="867.33838"
+         id="tspan4476"
+         sodipodi:role="line">2017</tspan></text>
+    <image
+       sodipodi:absref="/Users/leoteo/Personal/Programmierung/Websites/htdocs/yrm2017/yrm2017/assets/images/F1-M1-L.png"
+       xlink:href="F1-M1-L.png"
+       clip-path="url(#clipPath4314)"
+       width="1171"
+       height="690"
+       preserveAspectRatio="none"
+       id="image4491"
+       x="1492.4576"
+       y="-520.43158"
+       transform="matrix(0,-0.51675294,-0.51675294,0,3042.0208,3017.5687)" />
+    <text
+       sodipodi:linespacing="0%"
+       id="text4493"
+       y="2335.988"
+       x="3306.0562"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:90.72928619px;line-height:0%;font-family:'Nanum Pen Script';-inkscape-font-specification:'Nanum Pen Script';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.1921922px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:907.29284668px;line-height:0%;font-family:'Nanum Pen Script';-inkscape-font-specification:'Nanum Pen Script';letter-spacing:-23.84384346px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.1921922px"
+         y="2335.988"
+         x="3306.0562"
+         id="tspan4495"
+         sodipodi:role="line">YRM</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4497"
+       y="-5107.8184"
+       x="1696.89"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.79875374px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial Bold';letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient4503);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       transform="matrix(0,1,-1,0,0,0)"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:167.98756409px;font-family:Braggadocio;-inkscape-font-specification:Braggadocio;fill:url(#linearGradient4503);fill-opacity:1"
+         y="-5107.8184"
+         x="1696.89"
+         id="tspan4499"
+         sodipodi:role="line">2017</tspan></text>
+    <g
+       id="g4339">
+      <image
+         sodipodi:absref="/Users/leoteo/Personal/Programmierung/Websites/htdocs/yrm2017/yrm2017/assets/images/F1-M1-L.png"
+         xlink:href="F1-M1-L.png"
+         clip-path="url(#clipPath4314)"
+         width="1171"
+         height="690"
+         preserveAspectRatio="none"
+         id="image4510"
+         x="1492.4576"
+         y="-520.43158"
+         transform="matrix(0,-0.51675294,-0.51675294,0,3094.2014,4064.4003)" />
+      <text
+         sodipodi:linespacing="0%"
+         id="text4512"
+         y="3284.8596"
+         x="3346.335"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:58.21282196px;line-height:0%;font-family:Noteworthy;-inkscape-font-specification:'Noteworthy Light';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.76492244px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:582.12823486px;line-height:0%;font-family:Noteworthy;-inkscape-font-specification:'Noteworthy Light';letter-spacing:-15.29844952px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.76492244px"
+           y="3284.8596"
+           x="3346.335"
+           id="tspan4514"
+           sodipodi:role="line">YRM</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4516"
+         y="-4579.0801"
+         x="2756.355"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.07427216px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial Bold';letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient4522);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"
+         transform="matrix(0,1,-1,0,0,0)"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:250.74273682px;font-family:Noteworthy;-inkscape-font-specification:'Noteworthy Bold';fill:url(#linearGradient4522);fill-opacity:1"
+           y="-4579.0801"
+           x="2756.355"
+           id="tspan4518"
+           sodipodi:role="line">2017</tspan></text>
+    </g>
+    <text
+       transform="matrix(0,1,-1,0,0,0)"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:41.74708557px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial Bold';letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient4306);fill-opacity:1;stroke:none;stroke-width:4.70080137;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="104.50745"
+       y="-5223.4287"
+       id="text4302"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4304"
+         x="104.50745"
+         y="-5223.4287"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:417.47094727px;font-family:Haettenschweiler;-inkscape-font-specification:'Haettenschweiler Medium';fill:url(#linearGradient4306);fill-opacity:1;stroke:none;stroke-width:4.70080137;stroke-miterlimit:4;stroke-dasharray:none">2017</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4321"
+       y="-4579.6543"
+       x="1703.4684"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:44.44971848px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial Bold';letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient4325);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       transform="matrix(0,1,-1,0,0,0)"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:444.4972229px;font-family:'Nanum Pen Script';-inkscape-font-specification:'Nanum Pen Script';fill:url(#linearGradient4325);fill-opacity:1"
+         y="-4579.6543"
+         x="1703.4684"
+         id="tspan4323"
+         sodipodi:role="line">2017</tspan></text>
+    <image
+       sodipodi:absref="/Users/leoteo/Personal/Programmierung/Websites/htdocs/yrm2017/yrm2017/assets/images/F1-M1-L.png"
+       xlink:href="F1-M1-L.png"
+       clip-path="url(#clipPath4314)"
+       width="1171"
+       height="690"
+       preserveAspectRatio="none"
+       id="image4348"
+       x="1492.4576"
+       y="-520.43158"
+       transform="matrix(0,-0.51675294,-0.51675294,0,3094.2014,4963.0003)" />
+    <text
+       sodipodi:linespacing="0%"
+       id="text4351"
+       y="4177.1582"
+       x="3332.1826"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:55.57496262px;line-height:0%;font-family:Noteworthy;-inkscape-font-specification:'Noteworthy Light';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.76492244px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:555.74963379px;line-height:0%;font-family:Noteworthy;-inkscape-font-specification:'Noteworthy Bold';letter-spacing:-37.44166565px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.76492244px"
+         y="4177.1582"
+         x="3332.1826"
+         id="tspan4353"
+         sodipodi:role="line">YRM</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4355"
+       y="-4566.3472"
+       x="3697.7454"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24.5894928px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial Bold';letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient4359);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       transform="matrix(0,1,-1,0,0,0)"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:245.89494324px;font-family:Noteworthy;-inkscape-font-specification:'Noteworthy Bold';fill:url(#linearGradient4359);fill-opacity:1"
+         y="-4566.3472"
+         x="3697.7454"
+         id="tspan4357"
+         sodipodi:role="line">2017</tspan></text>
+  </g>
+</svg>
