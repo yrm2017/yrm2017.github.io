@@ -13,7 +13,7 @@
 .site-title {
     font-size: 26px;
     font-weight: 300;
-    line-height: 56px;
+    line-height: 60px;
     letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
@@ -24,9 +24,16 @@
     }
 }
 
+.site-logo {
+    height: 70px;
+    position: relative;
+    margin-bottom: -5px;
+    margin-top: -5px;
+}
+
 .site-nav {
     float: right;
-    line-height: 56px;
+    line-height: 60px;
 
     .menu-icon {
         display: none;
@@ -167,8 +174,8 @@
 
 
 img.sponsor {
-    height: 80px;
-    padding-right: 10px;
+    height: 75px;
+    padding-right: 30px;
 }
 
 @include media-query($on-palm) {

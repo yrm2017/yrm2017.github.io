@@ -3,7 +3,7 @@ layout: page
 title: Venue
 permalink: /venue/
 image: /assets/images/maxresdefault.jpg
-order: 2
+order: 3
 ---
 ## The conference venue
 The ETSF YRM 2017 will be held at the [Institut Català d'Investigació

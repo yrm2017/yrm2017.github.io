@@ -3,7 +3,7 @@ layout: page
 title: Organisers
 permalink: /organisers/
 image: /assets/images/maxresdefault.jpg
-order: 3 
+order: 6 
 ---
 ## Organising Committee
 <b></b>
