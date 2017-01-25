@@ -35,9 +35,9 @@ order: 6
 <b></b>
 
 * **Prof. Rex Godby**, Department of physics, University of York, York, UK
-* **Prof. Lucia Reining**, Irradiated Solids Laboratory, École Polytechnique, Palaiseau, France
-* **Prof. Gian-Marco Rignanese**, Nanoscopic Physics Division, Catholic University of Louvain, Louvain-la-Neuve, Belgium
 * **Prof. Xavier Gonze**, Nanoscopic Physics Division, Catholic University of Louvain, Louvain-la-Neuve, Belgium
 * **Prof. Núria López**, ICIQ, Tarragona, Spain
+* **Prof. Lucia Reining**, Irradiated Solids Laboratory, École Polytechnique, Palaiseau, France
+* **Prof. Gian-Marco Rignanese**, Nanoscopic Physics Division, Catholic University of Louvain, Louvain-la-Neuve, Belgium
 
 The YRM 2017 is kindly hosted by ICIQ, Tarragona.
