@@ -29,6 +29,7 @@ world heritage site.
 {::nomarkdown}
 <iframe src="https://www.google.com/maps/d/embed?mid=1HSLv0ilbKzNDw8KlDiLCmNwlhfg&hl=en" width="640" width="95%" height=400 frameborder=0 style:"border:0"></iframe>
 {:/nomarkdown}
+Click onto the pins for more information.
 
  * **By plane via Reus Airport:** [Reus Airport](http://www.reus-airport.es/) (REU) is located just 10 minutes from Tarragona and particularly well connected to the UK
  * **By plane via Barcelona Airport:** [Barcelona el Prat](http://www.barcelona-airport.com/) (BCN) is Spain's second largest airport. Tarragona can be reached in 65 minutes via a [bus service](http://www.busplana.com/new2013/en/) leaving from terminal 1 (alight at Tarragona, Imperial Tarraco)
@@ -39,6 +40,7 @@ world heritage site.
 {::nomarkdown}
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1269EvpMrxSjiWtrQuLJ9FT8tozw" width="640" width="95%" height=400 frameborder=0 style:"border:0"></iframe>
 {:/nomarkdown}
+Click onto the pins for more information.
 
  * Participants will be hosted at [Hotel SB Express Tarragona](http://www.hotelexpresstarragona.com/en/) (see [Tripadvisor](https://www.tripadvisor.com/Hotel_Review-g187503-d260682-Reviews-Hotel_SB_Express_Tarragona-Tarragona_Costa_Dorada_Province_of_Tarragona_Catalonia.html)).
  * Way to ICIQ: Take [Bus 54](http://emtanemambtu.cat/detalldelineas/?linecode=54&viewdetail=horaris) from Francesc Macià to Joan Serra  (or walk, if you feel like it!)

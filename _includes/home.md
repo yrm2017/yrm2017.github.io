@@ -18,6 +18,8 @@ overview of the field, introducing the theoretical framework, state-of-the-art
 methods and open questions.
 
 In addition to the scientific sessions, the meeting will include a session on
-**the future of scientific publishing** as well as one day dedicated to **talks
-by researchers from the private sector**, who will share their experience of
-working in a non-academic setting.
+**the future of scientific publishing** with representatives from the newly
+founded [SciPost](https://scipost.org/) and
+[Quantum](http://quantum-journal.org/) non-profit journals as well as one day
+dedicated to **talks by researchers from the private sector**, who will share
+their experience of working in a non-academic setting.

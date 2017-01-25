@@ -12,7 +12,7 @@ order: 6
 * **Franziska Hegner**, Ph.D. student, ICIQ, Tarragona, Spain
 * **Vilhelmiina Kontkanen**, Ph.D. student, University of Mons, Mons, Belgium
 * **Sriram P. Ramkumar**, Ph.D. student, Catholic University of Louvain, Louvain-la-Neuve, Belgium
-* **[Dr. Leopold Talirz](mailto:leopold.talirz@york.ac.uk)**, Postdoc, University of York, Heslington, UK
+* **[Dr. Leopold Talirz](mailto:leopold.talirz@york.ac.uk)**, Postdoc, University of York, York, UK
 
 ## Scientific Committee
 <b></b>
@@ -20,7 +20,7 @@ order: 6
 * **Dr. Neyvis Almora-Barrios** Postdoc, ICIQ, Tarragona, Spain
 * **Dr. Andrés Rafael Botello Mendez** Research associate, University of Cambridge, Cambridge, UK
 * **Dr. Matteo Guzzo** Postdoc, Humboldt University of Berlin, Berlin, Germany
-* **Dr. Phil Hasnip** Postdoc, University of York, Heslington, UK
+* **Dr. Phil Hasnip** Postdoc, University of York, York, UK
 
 <!--
 ## Keynote speakers

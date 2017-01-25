@@ -31,10 +31,11 @@ ICIQ, please provide your full address in the registration form.
 <!--
 Payments are to be made via **bank transfer** to
 
-    Account Holder: Fundació Institut Català d'Investigació
+    Account Holder: Fundació Institut Català d'Investigació Química
     IBAN: ES16 0081 0088 1300 0217 0525
     BIC/SWIFT: BSABESBB
-    BANC: BANC SABADELL, S.A, C. Antoni Rovira i Virgili, 543002 Tarragona
+    BANK: BANC SABADELL, S.A, C. Antoni Rovira i Virgili, 543002 Tarragona
+    Reference: YRM + Firstname Lastname
 -->
 Deadline for payment is **April 17th 2017**
 

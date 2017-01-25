@@ -23,10 +23,10 @@ He/she also points to current challenges, thus providing pointers to successive
 talks of the session.
 
 In order to give young scientists opportunity to discover research in the
-private sector, one day will be dedicated to presentations from industrial
-researchers. This gives attendees a unique opportunity to compare the research
-activity in the two domains, to structure their career and to envisage outreach
-collaborations.
+private sector, it is tradition to dedicate one day to presentations from
+industrial researchers. This gives attendees a unique opportunity to compare
+the research activity in the two domains, to structure their career and to
+envisage outreach collaborations.
 
 ## What is the ETSF?
 
