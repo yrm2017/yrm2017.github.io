@@ -5,7 +5,7 @@ permalink: /register/
 image: /assets/images/maxresdefault.jpg
 order: 2
 ---
-## Conference fees
+## Conference Fees
 
 The fees for the ETSF YRM 2017 are set at
 
@@ -15,11 +15,16 @@ The fees for the ETSF YRM 2017 are set at
 
 These fees may still be slightly reduced if our finances allow it (but they will not be raised).
 
+Rooms are booked for five nights from Sunday, the 4th, to Thursday, the 8th of
+June.
+
 ## Registration
 
-Registration and abstract submission will open before January 27th.
+Registration and abstract submission is now **OPEN**
 
-Deadline for registration is **April 10th 2017**
+### [&#x2192; Register](https://goo.gl/forms/lz7ghbdlIqHOYg2v2)
+
+Deadline for registration is <span style="color:red">**April 10th 2017**</span>
 
 ## Payment
 
@@ -37,5 +42,5 @@ Payments are to be made via **bank transfer** to
     BANK: BANC SABADELL, S.A, C. Antoni Rovira i Virgili, 543002 Tarragona
     Reference: YRM + Firstname Lastname
 -->
-Deadline for payment is **April 17th 2017**
+Deadline for payment is <span style="color:red">**April 17th 2017**</span>
 
