@@ -13,11 +13,11 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   width="861.76318"
-   height="861.76318"
-   viewBox="0 0 861.7632 861.76318"
+   width="784.69373"
+   height="350.75015"
+   viewBox="0 0 784.69374 350.75015"
    sodipodi:docname="logo.svg"
-   inkscape:export-filename="logo_square.png"
+   inkscape:export-filename="logo.png"
    inkscape:export-xdpi="149.9716"
    inkscape:export-ydpi="149.9716">
   <metadata
@@ -250,8 +250,8 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.29843198"
-     inkscape:cx="595.54401"
-     inkscape:cy="997.40254"
+     inkscape:cx="557.00927"
+     inkscape:cy="741.89602"
      inkscape:window-x="129"
      inkscape:window-y="18"
      inkscape:window-maximized="0"
@@ -262,7 +262,7 @@
      fit-margin-bottom="0" />
   <g
      id="g4186"
-     transform="matrix(0.53416426,0,0,0.53416426,-1691.1967,-1439.2969)">
+     transform="matrix(0.53416426,0,0,0.53416426,-1729.7314,-1694.8034)">
     <image
        sodipodi:absref="/Users/leoteo/Personal/Programmierung/Websites/htdocs/yrm2017/yrm2017/assets/images/F1-M1-L.png"
        xlink:href="F1-M1-L.png"
@@ -445,44 +445,47 @@
          id="rect4248"
          width="2225.2056"
          height="1949.6382"
-         x="2866.3818"
-         y="3000.5632" />
-      <image
-         sodipodi:absref="/Users/leoteo/Personal/Programmierung/Websites/htdocs/yrm2017/yrm2017/assets/images/F1-M1-L.png"
-         xlink:href="F1-M1-L.png"
-         clip-path="url(#clipPath4314)"
-         width="1171"
-         height="690"
-         preserveAspectRatio="none"
-         id="image4348"
-         x="1492.4576"
-         y="-520.43158"
-         transform="matrix(0,-0.51675294,-0.51675294,0,3094.2014,4963.0003)" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:55.57496262px;line-height:0%;font-family:Noteworthy;-inkscape-font-specification:'Noteworthy Light';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.76492244px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="3332.1826"
-         y="4177.1582"
-         id="text4351"
-         sodipodi:linespacing="0%"><tspan
-           sodipodi:role="line"
-           id="tspan4353"
-           x="3332.1826"
+         x="5752.9487"
+         y="2800.7771" />
+      <g
+         id="g4344">
+        <image
+           sodipodi:absref="/Users/leoteo/Personal/Programmierung/Websites/htdocs/yrm2017/yrm2017/assets/images/F1-M1-L.png"
+           xlink:href="F1-M1-L.png"
+           transform="matrix(0,-0.51675294,-0.51675294,0,3094.2014,4963.0003)"
+           y="-520.43158"
+           x="1492.4576"
+           id="image4348"
+           preserveAspectRatio="none"
+           height="690"
+           width="1171"
+           clip-path="url(#clipPath4314)" />
+        <text
+           sodipodi:linespacing="0%"
+           id="text4351"
            y="4177.1582"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:555.74963379px;line-height:0%;font-family:Noteworthy;-inkscape-font-specification:'Noteworthy Bold';letter-spacing:-37.44166565px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.76492244px">YRM</tspan></text>
-      <text
-         transform="matrix(0,1,-1,0,0,0)"
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24.58949279999999860px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial Bold';letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient4359);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="3697.7454"
-         y="-4566.3472"
-         id="text4355"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           id="tspan4357"
-           x="3697.7454"
+           x="3332.1826"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:55.57496262px;line-height:0%;font-family:Noteworthy;-inkscape-font-specification:'Noteworthy Light';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.76492244px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:555.74963379px;line-height:0%;font-family:Noteworthy;-inkscape-font-specification:'Noteworthy Bold';letter-spacing:-37.44166565px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.76492244px"
+             y="4177.1582"
+             x="3332.1826"
+             id="tspan4353"
+             sodipodi:role="line">YRM</tspan></text>
+        <text
+           sodipodi:linespacing="125%"
+           id="text4355"
            y="-4566.3472"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:245.89494323999997505px;font-family:Noteworthy;-inkscape-font-specification:'Noteworthy Bold';fill:url(#linearGradient4359);fill-opacity:1">2017</tspan></text>
+           x="3697.7454"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24.5894928px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial Bold';letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient4359);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"
+           transform="matrix(0,1,-1,0,0,0)"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:245.89494324px;font-family:Noteworthy;-inkscape-font-specification:'Noteworthy Bold';fill:url(#linearGradient4359);fill-opacity:1"
+             y="-4566.3472"
+             x="3697.7454"
+             id="tspan4357"
+             sodipodi:role="line">2017</tspan></text>
+      </g>
     </g>
   </g>
 </svg>
