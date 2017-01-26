@@ -17,7 +17,7 @@
    height="861.76318"
    viewBox="0 0 861.7632 861.76318"
    sodipodi:docname="logo.svg"
-   inkscape:export-filename="logo_fb.png"
+   inkscape:export-filename="logo_square.png"
    inkscape:export-xdpi="149.9716"
    inkscape:export-ydpi="149.9716">
   <metadata
@@ -43,15 +43,15 @@
          id="stop4369" />
       <stop
          id="stop4371"
-         offset="0.24206381"
-         style="stop-color:#f5f50a;stop-opacity:1" />
+         offset="0.44756261"
+         style="stop-color:#ebeb14;stop-opacity:1" />
       <stop
          id="stop4373"
          offset="0.51055306"
          style="stop-color:#f5f50a;stop-opacity:1" />
       <stop
          style="stop-color:#f5f50a;stop-opacity:1"
-         offset="0.74135083"
+         offset="0.59132737"
          id="stop4375" />
       <stop
          style="stop-color:#ff0000;stop-opacity:1"
@@ -231,9 +231,9 @@
        id="linearGradient4359"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1.1383721,0,0,1.1383721,929.22077,-5004.8528)"
-       x1="2952.9802"
+       x1="3006.4709"
        y1="308.53137"
-       x2="2449.7307"
+       x2="2387.6814"
        y2="308.53137" />
   </defs>
   <sodipodi:namedview
@@ -250,12 +250,12 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.29843198"
-     inkscape:cx="615.1997"
-     inkscape:cy="768.472"
-     inkscape:window-x="71"
-     inkscape:window-y="1"
+     inkscape:cx="595.54401"
+     inkscape:cy="997.40254"
+     inkscape:window-x="129"
+     inkscape:window-y="18"
      inkscape:window-maximized="0"
-     inkscape:current-layer="g4186"
+     inkscape:current-layer="g4289"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
@@ -266,14 +266,14 @@
     <image
        sodipodi:absref="/Users/leoteo/Personal/Programmierung/Websites/htdocs/yrm2017/yrm2017/assets/images/F1-M1-L.png"
        xlink:href="F1-M1-L.png"
-       transform="matrix(0,-0.51675294,-0.51675294,0,3050.8922,1385.2211)"
-       y="-520.43158"
-       x="1492.4576"
-       id="image4445"
-       preserveAspectRatio="none"
-       height="690"
+       clip-path="url(#clipPath4314)"
        width="1171"
-       clip-path="url(#clipPath4314)" />
+       height="690"
+       preserveAspectRatio="none"
+       id="image4445"
+       x="1492.4576"
+       y="-520.43158"
+       transform="matrix(0,-0.51675294,-0.51675294,0,3050.8922,1385.2211)" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:76.10290527px;line-height:0%;font-family:Arial;-inkscape-font-specification:'Arial Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -302,14 +302,14 @@
     <image
        sodipodi:absref="/Users/leoteo/Personal/Programmierung/Websites/htdocs/yrm2017/yrm2017/assets/images/F1-M1-L.png"
        xlink:href="F1-M1-L.png"
-       clip-path="url(#clipPath4314)"
-       width="1171"
-       height="690"
-       preserveAspectRatio="none"
-       id="image4468"
-       x="1492.4576"
+       transform="matrix(0,-0.51675294,-0.51675294,0,3068.6351,2183.652)"
        y="-520.43158"
-       transform="matrix(0,-0.51675294,-0.51675294,0,3068.6351,2183.652)" />
+       x="1492.4576"
+       id="image4468"
+       preserveAspectRatio="none"
+       height="690"
+       width="1171"
+       clip-path="url(#clipPath4314)" />
     <text
        sodipodi:linespacing="0%"
        id="text4470"
@@ -338,14 +338,14 @@
     <image
        sodipodi:absref="/Users/leoteo/Personal/Programmierung/Websites/htdocs/yrm2017/yrm2017/assets/images/F1-M1-L.png"
        xlink:href="F1-M1-L.png"
-       clip-path="url(#clipPath4314)"
-       width="1171"
-       height="690"
-       preserveAspectRatio="none"
-       id="image4491"
-       x="1492.4576"
+       transform="matrix(0,-0.51675294,-0.51675294,0,3042.0208,3017.5687)"
        y="-520.43158"
-       transform="matrix(0,-0.51675294,-0.51675294,0,3042.0208,3017.5687)" />
+       x="1492.4576"
+       id="image4491"
+       preserveAspectRatio="none"
+       height="690"
+       width="1171"
+       clip-path="url(#clipPath4314)" />
     <text
        sodipodi:linespacing="0%"
        id="text4493"
@@ -377,14 +377,14 @@
       <image
          sodipodi:absref="/Users/leoteo/Personal/Programmierung/Websites/htdocs/yrm2017/yrm2017/assets/images/F1-M1-L.png"
          xlink:href="F1-M1-L.png"
-         clip-path="url(#clipPath4314)"
-         width="1171"
-         height="690"
-         preserveAspectRatio="none"
-         id="image4510"
-         x="1492.4576"
+         transform="matrix(0,-0.51675294,-0.51675294,0,3094.2014,4064.4003)"
          y="-520.43158"
-         transform="matrix(0,-0.51675294,-0.51675294,0,3094.2014,4064.4003)" />
+         x="1492.4576"
+         id="image4510"
+         preserveAspectRatio="none"
+         height="690"
+         width="1171"
+         clip-path="url(#clipPath4314)" />
       <text
          sodipodi:linespacing="0%"
          id="text4512"
@@ -439,18 +439,25 @@
          sodipodi:role="line">2017</tspan></text>
     <g
        id="g4289"
-       transform="translate(-4.1174023e-5,-446.08348)">
+       transform="matrix(0.91056767,0,0,0.91056767,355.28844,-93.074989)">
+      <rect
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.51099992;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4248"
+         width="2225.2056"
+         height="1949.6382"
+         x="2866.3818"
+         y="3000.5632" />
       <image
          sodipodi:absref="/Users/leoteo/Personal/Programmierung/Websites/htdocs/yrm2017/yrm2017/assets/images/F1-M1-L.png"
          xlink:href="F1-M1-L.png"
-         transform="matrix(0,-0.51675294,-0.51675294,0,3094.2014,4963.0003)"
-         y="-520.43158"
-         x="1492.4576"
-         id="image4348"
-         preserveAspectRatio="none"
-         height="690"
+         clip-path="url(#clipPath4314)"
          width="1171"
-         clip-path="url(#clipPath4314)" />
+         height="690"
+         preserveAspectRatio="none"
+         id="image4348"
+         x="1492.4576"
+         y="-520.43158"
+         transform="matrix(0,-0.51675294,-0.51675294,0,3094.2014,4963.0003)" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:55.57496262px;line-height:0%;font-family:Noteworthy;-inkscape-font-specification:'Noteworthy Light';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.76492244px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -466,7 +473,7 @@
       <text
          transform="matrix(0,1,-1,0,0,0)"
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24.5894928px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial Bold';letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient4359);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24.58949279999999860px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial Bold';letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient4359);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="3697.7454"
          y="-4566.3472"
          id="text4355"
@@ -475,7 +482,7 @@
            id="tspan4357"
            x="3697.7454"
            y="-4566.3472"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:245.89494324px;font-family:Noteworthy;-inkscape-font-specification:'Noteworthy Bold';fill:url(#linearGradient4359);fill-opacity:1">2017</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:245.89494323999997505px;font-family:Noteworthy;-inkscape-font-specification:'Noteworthy Bold';fill:url(#linearGradient4359);fill-opacity:1">2017</tspan></text>
     </g>
   </g>
 </svg>
