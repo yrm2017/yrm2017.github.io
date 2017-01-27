@@ -24,7 +24,7 @@ Registration and abstract submission is now **OPEN**
 
 ### [&#x2192; Register](https://goo.gl/forms/lz7ghbdlIqHOYg2v2)
 
-Deadline for registration is <span style="color:red">**April 10th 2017**</span>
+Deadline for registration and abstract submission is <span style="color:red">**April 10th 2017**</span>
 
 ## Payment
 
