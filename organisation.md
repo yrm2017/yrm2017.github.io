@@ -12,7 +12,7 @@ order: 6
 * **Franziska Hegner**, Ph.D. student, ICIQ, Tarragona, Spain
 * **Vilhelmiina Kontkanen**, Ph.D. student, University of Mons, Mons, Belgium
 * **Sriram P. Ramkumar**, Ph.D. student, Catholic University of Louvain, Louvain-la-Neuve, Belgium
-* **[Dr. Leopold Talirz](mailto:leopold.talirz@york.ac.uk)**, Postdoc, University of York, York, UK
+* **Dr. Leopold Talirz**, Postdoc, University of York, York, UK
 
 ## Scientific Committee
 <b></b>
@@ -40,4 +40,11 @@ order: 6
 * **Prof. Lucia Reining**, Irradiated Solids Laboratory, École Polytechnique, Palaiseau, France
 * **Prof. Gian-Marco Rignanese**, Nanoscopic Physics Division, Catholic University of Louvain, Louvain-la-Neuve, Belgium
 
-The YRM 2017 is kindly hosted by ICIQ, Tarragona.
+## Sponsors
+
+We are very grateful to our sponsors for helping to make this event possible:
+
+* The **[European Theoretical Spectroscopy Facility](http://www.etsf.eu)** for continuous encouragement and support
+* The **[Psi-k Network](http://www.psi-k.net)** for providing the main source of funding for the event
+* The **[Institute of Chemical Research of Catalonia](http://www.iciq.org)** for hosting the event and for providing administrative support
+* The **[Catalan Chemistry Society](http://blogs.iec.cat/scq)** (SCQ) for contributing funding
