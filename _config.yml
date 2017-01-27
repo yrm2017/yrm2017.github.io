@@ -14,7 +14,7 @@ description: > # this means to ignore newlines until "baseurl:"
   taking place June 5-9 2017 in Tarragona, Spain.
 baseurl: ""
 url: "https://yrm2017.github.io" # the base hostname & protocol for your site
-#twitter_username: jekyllrb
+twitter_username: yrm2017 
 #github_username:  yrm2017
 facebook_username: yrm2017
 

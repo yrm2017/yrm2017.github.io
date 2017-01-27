@@ -27,8 +27,12 @@
         <a class="page-link" href="mailto:{{ site.email }}"><img src="{{ '/assets/images/icon-email.png' | prepend: site.baseurl }}" height=20px></a>
         {% endif %}
         {% if site.facebook_username %}
-            <a href="https://www.facebook.com/{{ site.facebook_username }}"><span class="icon icon--facebook">{% include icon-facebook.svg %}</span></a>
+            <a class="page-link" href="https://www.facebook.com/{{ site.facebook_username }}"><span class="icon icon--facebook">{% include icon-facebook.svg %}</span></a>
         {% endif %}
+        {% if site.twitter_username %}
+            <a href="https://twitter.com/{{ site.twitter_username }}"><span class="icon icon--twitter">{% include icon-twitter.svg %}</span></a>
+        {% endif %}
+
       </div>
     </nav>
 
