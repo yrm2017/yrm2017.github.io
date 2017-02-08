@@ -22,16 +22,24 @@ June.
 
 Registration and abstract submission is now **OPEN**
 
+Please note that the number of places is limited. We encourage participants to **submit
+early** in order to secure their spot.
+
+We will start reviewing abstracts and sending out acceptance emails on March 1st.
+The final allocation of posters & talks will be made after the registration deadline.
+
 ### [&#x2192; Register](https://goo.gl/forms/lz7ghbdlIqHOYg2v2)
 
 Deadline for registration and abstract submission is <span style="color:red">**April 10th 2017**</span>
 
+
 ## Payment
 
-Payment information will be available before March 1st.
+Payment information will be provided in your acceptance email (see above).
 
-Payment will have to be made **via bank transfer**. If you need an official invoice from
-ICIQ, please provide your full address in the registration form.
+Note that payments will have to be made **via bank transfer**. If you need an
+official invoice from ICIQ, please provide your full address in the
+registration form.
 
 <!--
 Payments are to be made via **bank transfer** to
