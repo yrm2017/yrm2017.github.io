@@ -11,7 +11,7 @@ order: 6
 * **Dr. Damien Cornu**, Postdoc, ICIQ, Tarragona, Spain
 * **Franziska Hegner**, Ph.D. student, ICIQ, Tarragona, Spain
 * **Vilhelmiina Kontkanen**, Ph.D. student, University of Mons, Mons, Belgium
-* **Sriram P. Ramkumar**, Ph.D. student, Catholic University of Louvain, Louvain-la-Neuve, Belgium
+* **Sriram P. Ramkumar**, Ph.D. student, Université catholique de Louvain, Louvain-la-Neuve, Belgium
 * **Dr. Leopold Talirz**, Postdoc, University of York, York, UK
 
 ## Scientific Committee
@@ -35,10 +35,10 @@ order: 6
 <b></b>
 
 * **Prof. Rex Godby**, Department of physics, University of York, York, UK
-* **Prof. Xavier Gonze**, Nanoscopic Physics Division, Catholic University of Louvain, Louvain-la-Neuve, Belgium
+* **Prof. Xavier Gonze**, Nanoscopic Physics Division, Université catholique de Louvain, Louvain-la-Neuve, Belgium
 * **Prof. Núria López**, ICIQ, Tarragona, Spain
 * **Prof. Lucia Reining**, Irradiated Solids Laboratory, École Polytechnique, Palaiseau, France
-* **Prof. Gian-Marco Rignanese**, Nanoscopic Physics Division, Catholic University of Louvain, Louvain-la-Neuve, Belgium
+* **Prof. Gian-Marco Rignanese**, Nanoscopic Physics Division, Université catholique de Louvain, Louvain-la-Neuve, Belgium
 
 ## Sponsors
 
