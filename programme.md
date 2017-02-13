@@ -30,7 +30,7 @@ Strongly correlated materials, such as transition metal oxides, pnictogens, and 
 Conventional DFT fails to capture the low-energy physics, which is recovered in part by combining DFT with explicit local many-body methods, such as dynamical mean-field theory (DMFT), Slave-Bosons, and Gutzwiller wave-functions. Recent advances going beyond local correlations include extended DMFT+GW, higher-order self-consistent methods, and diagrammatic Monte Carlo.
 
 * Session 3: **Electronic excitations**<br>
-  <i>Introduced and chaired by Dr. Michiel van Setten (Catholic University of Louvain, Belgium)</i><br>
+  <i>Introduced and chaired by Dr. Michiel van Setten (Université catholique de Louvain, Belgium)</i><br>
 The study of electronic excitations forms the core of theoretical spectroscopy. Charged excitations occur in (inverse) photoemission spectroscopy (XPS, UPS, IPES) and scanning tunneling spectroscopy (STS). Green's function methods are naturally adapted express the corresponding change in particle number and controlled approximations, such as GW, provide highly accurate fundamental gaps in quasiparticle spectra. Recent developments include ways of avoiding summation over empty states and analytical treatment of the frequency-dependence of the self-energy.
 Neutral excitations occur in optical and electron energy loss spectroscopy and can be addressed by time-dependent DFT or the Bethe-Salpeter equation. Both methods face important challenges, be it going beyond the adiabatic approximation (TDDFT) or reducing computational complexity (BSE). 
 
