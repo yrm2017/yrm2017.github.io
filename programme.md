@@ -10,7 +10,7 @@ order: 1
 **Warning: This schedule is <span style="color:red">preliminary</span> and subject to change**
 
 {::nomarkdown}
-<iframe src="https://docs.google.com/spreadsheets/d/13p7b-EDX44qkK4GBq4wVI6Cq4qYq07edYltT4IFmZd8/pubhtml?widget=true&amp;headers=false&amp;rm=minimal"  width="610" height=580 frameborder=0 style:"border:0"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/13p7b-EDX44qkK4GBq4wVI6Cq4qYq07edYltT4IFmZd8/pubhtml?widget=true&amp;headers=false&amp;rm=minimal"  width="710" height=580 frameborder=0 style:"border:0"></iframe>
 {:/nomarkdown}
 
 ## Detailed Programme
