@@ -50,5 +50,7 @@ Click on the pins for more information.
 
  * Participants will be hosted at [Hotel SB Express Tarragona](http://www.hotelexpresstarragona.com/en/) (see [Tripadvisor](https://www.tripadvisor.com/Hotel_Review-g187503-d260682-Reviews-Hotel_SB_Express_Tarragona-Tarragona_Costa_Dorada_Province_of_Tarragona_Catalonia.html)).
 
- * Way to ICIQ: Take [Bus 54](http://emtanemambtu.cat/detalldelineas/?linecode=54&viewdetail=horaris) from Francesc Macià to Joan Serra  (or walk, if you feel like it!)
+ * **To ICIQ by bus:** Take [Bus 54](http://emtanemambtu.cat/detalldelineas/?linecode=54&viewdetail=horaris) from Francesc Macià to Joan Serra
+
+ * **To ICIQ on foot:** Follow the way indicated in blue (~1.7km)
 
