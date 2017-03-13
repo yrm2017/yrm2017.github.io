@@ -40,8 +40,8 @@ Deadline for registration and abstract submission is <span style="color:red">**A
 Payment information will be provided in your acceptance email (see above).
 
 Note that payments will have to be made **via bank transfer**. If you need an
-official invoice from ICIQ, please provide your full address in the
-registration form.
+official invoice from ICIQ, please provide your full address and passport
+number in the registration form.
 
 <!--
 Payments are to be made via **bank transfer** to
