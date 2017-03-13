@@ -48,3 +48,4 @@ We are very grateful to our sponsors for helping to make this event possible:
 * The **[Psi-k Network](http://www.psi-k.net)** for providing the main source of funding for the event
 * The **[Institute of Chemical Research of Catalonia](http://www.iciq.org)** for hosting the event and for providing administrative support
 * The **[Catalan Chemistry Society](http://blogs.iec.cat/scq)** (SCQ) for contributing funding
+* **[HPC Now!](http://www.hpcnow.com/)** for contributing funding
