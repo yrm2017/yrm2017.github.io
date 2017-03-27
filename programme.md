@@ -48,14 +48,20 @@ Following YRM tradition, one day will be dedicated to **talks by researchers
 from the private sector**, who will share their experience of working in a
 non-academic setting and will be happy to talk to you over the break coffee or
 in the interactive Q&A session.
+Our panel will include
 
-In addition to the scientific sessions listed above, the meeting will include a
-session on **the future of scientific publishing**. To discuss the
-opportunities enabled by fully digital publishing infrastructure, we are
-honoured to have with us <i>Prof. J. S. Caux, chairman of the
-[SciPost](https://scipost.org) Foundation</i>, as well as <i>Dr. Christian
-Gogolin, member of [Quantum Journal](http://quantum-journal.org) executive
-board</i>.
+* <i>Dr. Manuel Corral-Valero, Researcher at [IFPEN](http://www.ifpenergiesnouvelles.com/)</i>
+* <i>Dr. Alfons Nonell, CEO [Mind the Byte](https://www.mindthebyte.com/)</i>
+* <i>Pere Puigdomènech, HPC Engineer at [HPC Now!](http://www.hpcnow.com/)</i>
+* <i>Dr. Claudia Violante, Project Manager and Data Scientist at [Pangea Formazione](http://www.pangeaformazione.it/en/)</i>
+* <i>Dr. Benedikt Ziebarth, Computational Materials Scientist at [Bosch](http://www.bosch.com/en/com/home/index.php)</i>
+
+Furthermore, the meeting will include a **session on the future of scientific
+publishing**. To discuss the opportunities created by fully digital publishing
+infrastructure, we are delighted to have with us <i>Prof. J. S. Caux, chairman
+of the [SciPost](https://scipost.org) Foundation</i>, as well as <i>Dr.
+Christian Gogolin, member of [Quantum Journal](http://quantum-journal.org)
+executive board</i>.
 
 
 
