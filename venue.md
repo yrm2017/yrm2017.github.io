@@ -41,7 +41,7 @@ Click on the pins for more information.
 
  * **By bus to Tarragona:** Long-distance bus lines, such as [Eurolines](http://www.eurolines.com/en/), [ALSA](https://www.alsa.es/), [HIFE](https://www.hife.es/en-GB), etc. are often the most economical option if you arrive from other parts of Spain or southwestern Europe. They all go directly to Tarragona's central bus station, Imperial Tarraco.
  
-## Accommodation
+## <a name="accommodation"></a>Accommodation
 
 {::nomarkdown}
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1269EvpMrxSjiWtrQuLJ9FT8tozw" width="640" width="95%" height=400 frameborder=0 style:"border:0"></iframe>
@@ -49,6 +49,9 @@ Click on the pins for more information.
 Click on the pins for more information.
 
  * Participants will be hosted at [Hotel SB Express Tarragona](http://www.hotelexpresstarragona.com/en/) (see [Tripadvisor](https://www.tripadvisor.com/Hotel_Review-g187503-d260682-Reviews-Hotel_SB_Express_Tarragona-Tarragona_Costa_Dorada_Province_of_Tarragona_Catalonia.html)).
+
+ * Rooms are booked for five nights, starting from Sunday, the 4th of June.
+   Check-in starts on Sunday at 3 pm, with check-out on Friday, the 9th, before noon.
 
  * **To ICIQ by bus:** Take [Bus 54](http://emtanemambtu.cat/detalldelineas/?linecode=54&viewdetail=horaris) from Francesc Macià to Joan Serra
 

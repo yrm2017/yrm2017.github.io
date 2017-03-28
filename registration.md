@@ -17,8 +17,8 @@ The fees for the ETSF YRM 2017 are set at
 These fees may still be slightly reduced if our finances allow it (but they will not be raised).
 -->
 
-Rooms are booked for five nights from Sunday, the 4th, to Thursday, the 8th of
-June.
+Rooms are booked for five nights, starting from Sunday, the 4th of June.
+More details [here](/venue#accommodation).
 
 ## Registration
 
