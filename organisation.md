@@ -14,6 +14,8 @@ order: 6
 * **Sriram P. Ramkumar**, Ph.D. student, Université catholique de Louvain, Louvain-la-Neuve, Belgium
 * **Dr. Leopold Talirz**, Postdoc, University of York, York, UK
 
+For any questions regarding the YRM 2017, please contact [etsf.yrm2017@gmail.com](mailto:etsf.yrm2017@gmail.com).
+
 ## Scientific Committee
 <b></b>
 

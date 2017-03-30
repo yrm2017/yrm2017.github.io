@@ -1,8 +1,10 @@
 The [ETSF Young Researchers' Meeting](about) (YRM) is an annual workshop for
 non-permanent scientists, mainly postdocs and PhD students, who work on
-theoretical and computational methods for the study of the electronic and optical
-properties of materials.
-It gives young researchers a chance to showcase their work, exchange ideas with others at their own level, learn novel techniques, start new collaborations, and improve their presentation skills.
+state-of-the-art theoretical and computational methods for the study of the
+electronic and optical properties of materials.
+It gives young researchers a chance to showcase their work, exchange ideas with
+others at their own level, learn novel techniques, start new collaborations,
+and improve their presentation skills.
 
 The YRM 2017 will be held from June 5-9 at the [ICIQ](venue) in
 Tarragona, Spain, and will host the following five [topical sessions](program):
