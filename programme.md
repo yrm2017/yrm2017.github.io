@@ -53,7 +53,7 @@ Our panel will include
 * <i>Dr. Manuel Corral-Valero, Researcher at [IFPEN](http://www.ifpenergiesnouvelles.com/)</i>
 * <i>Dr. Alfons Nonell, CEO [Mind the Byte](https://www.mindthebyte.com/)</i>
 * <i>Pere Puigdomènech, HPC Engineer at [HPC Now!](http://www.hpcnow.com/)</i>
-* <i>Dr. Claudia Violante, Project Manager and Data Scientist at [Pangea Formazione](http://www.pangeaformazione.it/en/)</i>
+<!-- * <i>Dr. Claudia Violante, Project Manager and Data Scientist at [Pangea Formazione](http://www.pangeaformazione.it/en/)</i> -->
 * <i>Dr. Benedikt Ziebarth, Computational Materials Scientist at [Bosch](http://www.bosch.com/en/com/home/index.php)</i>
 
 Furthermore, the meeting will include a **session on the future of scientific
