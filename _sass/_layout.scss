@@ -172,10 +172,17 @@
     }
 }
 
+table.sponsors {
+    width: 100%;
+    border-spacing: 10px 0;
+}
 
-img.sponsor {
-    height: 75px;
-    padding-right: 30px;
+table.sponsors td {
+    text-align: center;
+}
+
+table.sponsors img{
+    height: 70px;
 }
 
 @include media-query($on-palm) {
