@@ -1,7 +1,7 @@
 The [ETSF Young Researchers' Meeting](about) (YRM) is an annual workshop for
-non-permanent scientists, mainly postdocs and PhD students, who work on
-state-of-the-art theoretical and computational methods for the study of the
-electronic and optical properties of materials.
+postdocs, PhD students and Master students, who work on state-of-the-art
+theoretical and computational methods for the study of the electronic and
+optical properties of materials.
 It addresses problems and recent advances in method development, algorithms
 and implementations as well as applications to real materials.
 
