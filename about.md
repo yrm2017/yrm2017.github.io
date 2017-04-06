@@ -13,7 +13,7 @@ annually under the auspices of the European Theoretical Spectroscopy Facility
 theoretical spectrosopy to discuss problems and recent advances in method
 development, algorithms and implementations as well as applications to real
 materials.
-All young researchers without permanent positions, i.e. postdocs, PhD students and
+All young researchers without permanent contracts, i.e. postdocs, PhD students and
 Master students, are invited to apply through this web-page and submit an
 abstract for a poster or an oral contribution.
 

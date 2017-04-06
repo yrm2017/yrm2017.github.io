@@ -60,7 +60,7 @@ Furthermore, the meeting will include a **session on the future of scientific
 publishing**. To discuss the opportunities created by fully digital publishing
 infrastructure, we are delighted to have with us <i>Prof. J. S. Caux, chairman
 of the [SciPost](https://scipost.org) Foundation</i>, as well as <i>Dr.
-Christian Gogolin, member of [Quantum Journal](http://quantum-journal.org)
+Christian Gogolin, member of the [Quantum Journal](http://quantum-journal.org)
 executive board</i>.
 
 

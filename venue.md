@@ -52,6 +52,7 @@ Click on the pins for more information.
 
  * Rooms are booked for five nights, starting from Sunday, the 4th of June.
    Check-in starts on Sunday at 3 pm, with check-out on Friday, the 9th, before noon.
+   The hotel reception is manned 24 hours a day.
 
  * **To ICIQ by bus:** Take [Bus 54](http://emtanemambtu.cat/detalldelineas/?linecode=54&viewdetail=horaris) from Francesc Macià to Joan Serra
 
