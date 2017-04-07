@@ -32,7 +32,7 @@ The final allocation of posters & talks will be made after the registration dead
 
 ### [&#x2192; Register](https://goo.gl/forms/lz7ghbdlIqHOYg2v2)
 
-Deadline for registration and abstract submission is <span style="color:red">**April 10th 2017**</span>
+Deadline for registration and abstract submission is <span style="color:red">**Monday, April 10th 2017, 23:59 CET.**</span>
 
 
 ## Payment
@@ -52,5 +52,5 @@ Payments are to be made via **bank transfer** to
     BANK: BANC SABADELL, S.A, C. Antoni Rovira i Virgili, 543002 Tarragona
     Reference: YRM + Firstname Lastname
 -->
-Deadline for payment is <span style="color:red">**April 17th 2017**</span>
+Deadline for payment is <span style="color:red">**Monday, April 17th 2017**</span>
 
