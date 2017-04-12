@@ -9,8 +9,8 @@ order: 2
 
 The fees for the ETSF YRM 2017 are set at
 
- * € 220 including accommodation in a shared double room
- * € 345 including accommodation in a private single room
+* ~~€ 220 including accommodation in a shared double room~~
+ * ~~€ 345 including accommodation in a private single room~~
  * € 95  without accommodation
 
 <!--
@@ -32,7 +32,9 @@ The final allocation of posters & talks will be made after the registration dead
 
 ### [&#x2192; Register](https://goo.gl/forms/lz7ghbdlIqHOYg2v2)
 
-Deadline for registration and abstract submission is <span style="color:red">**Monday, April 10th 2017, 23:59 CET.**</span>
+~~Deadline for registration and abstract submission is <span style="color:red">**Monday, April 10th 2017, 23:59 CET.**</span>~~
+
+The deadline has been extended until <span style="color:red">**Monday, April 24th 2017, 23:59 CET.**</span>
 
 
 ## Payment
@@ -53,4 +55,7 @@ Payments are to be made via **bank transfer** to
     Reference: YRM + Firstname Lastname
 -->
 Deadline for payment is <span style="color:red">**Monday, April 17th 2017**</span>
+or one week after registration.
+
+If you asked for an invoice and haven't received it yet, don't worry: you will be given one week to make the payment after receiving the invoice.
 
