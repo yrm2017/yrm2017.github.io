@@ -11,10 +11,10 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   width="147.55775"
-   height="64"
-   viewBox="0 0 147.55776 64.000001"
+   inkscape:version="0.92.0 r"
+   width="128"
+   height="128"
+   viewBox="0 0 120 120"
    sodipodi:docname="favicon.svg"
    inkscape:export-filename="logo.png"
    inkscape:export-xdpi="149.9716"
@@ -32,9 +32,9 @@
      inkscape:window-height="856"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.29843198"
-     inkscape:cx="500.73899"
-     inkscape:cy="288.4269"
+     inkscape:zoom="1.6881862"
+     inkscape:cx="41.774791"
+     inkscape:cy="51.486214"
      inkscape:window-x="129"
      inkscape:window-y="18"
      inkscape:window-maximized="0"
@@ -51,7 +51,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -70,7 +70,7 @@
     </clipPath>
   </defs>
   <g
-     transform="matrix(0.53416426,0,0,0.53416426,-1818.979,-1930.1861)"
+     transform="matrix(0.53416426,0,0,0.53416426,-1818.979,-1874.1861)"
      id="g4186">
     <g
        transform="matrix(0.91056767,0,0,0.91056767,355.28844,-93.074989)"
@@ -86,16 +86,16 @@
          id="g4344">
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:14.41982651px;line-height:0%;font-family:Noteworthy;-inkscape-font-specification:'Noteworthy Light';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.76492244px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           x="3345.0437"
-           y="4195.6782"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:12.73920345px;line-height:0%;font-family:Noteworthy;-inkscape-font-specification:'Noteworthy Light';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.67577118px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="3634.7461"
+           y="3807.0483"
            id="text4351"
-           sodipodi:linespacing="0%"><tspan
+           transform="scale(0.92052789,1.0863332)"><tspan
              sodipodi:role="line"
              id="tspan4353"
-             x="3345.0437"
-             y="4195.6782"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:144.19827271px;line-height:0%;font-family:Noteworthy;-inkscape-font-specification:'Noteworthy Bold';letter-spacing:-9.71484852px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.76492244px">YRM</tspan></text>
+             x="3634.7461"
+             y="3807.0483"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:127.39204407px;line-height:0%;font-family:Noteworthy;-inkscape-font-specification:'Noteworthy Bold';letter-spacing:-8.5825882px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.67577118px">YRM</tspan></text>
       </g>
     </g>
   </g>

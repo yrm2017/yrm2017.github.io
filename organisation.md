@@ -52,3 +52,4 @@ We are very grateful to our sponsors for helping to make this event possible:
 * The **[Catalan Chemistry Society](http://blogs.iec.cat/scq)** (SCQ) for funding
 * **[HPC Now!](http://www.hpcnow.com/)** for funding
 * **[Software for Chemistry and Materials](http://www.scm.com/)** (SCM) for funding
+* **[Informatica i Comunications Tarragona](http://www.icot.es/)** (ICOT) for funding
