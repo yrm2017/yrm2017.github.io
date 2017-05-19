@@ -7,10 +7,10 @@ order: 1
 ---
 ## Schedule
 
-**Warning: This schedule is <span style="color:red">preliminary</span> and subject to change**
+**Warning: Minor changes may still apply. The final schedule will be available at the meeting.**
 
 {::nomarkdown}
-<iframe src="https://docs.google.com/spreadsheets/d/13p7b-EDX44qkK4GBq4wVI6Cq4qYq07edYltT4IFmZd8/pubhtml?widget=true&amp;headers=false&amp;rm=minimal"  width="710" height=580 frameborder=0 style:"border:0"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/1oF4J5JstQp8QPl49mK-G3SM1PKP_B4w5uzbie0t3HIk/pubhtml?widget=true&amp;headers=false&amp;rm=minimal"  width="695" height=620 frameborder=0 style:"border:0"></iframe>
 {:/nomarkdown}
 
 ## Detailed Programme
