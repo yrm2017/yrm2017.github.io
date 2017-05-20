@@ -22,8 +22,9 @@ More details [here](/venue#accommodation).
 
 ## Registration
 
-Registration and abstract submission is now **OPEN**
+Registration and abstract submission is now **CLOSED**.
 
+<!--
 Please note that the number of places is limited. We encourage participants to **submit
 early** in order to secure their spot.
 
@@ -35,6 +36,7 @@ The final allocation of posters & talks will be made after the registration dead
 ~~Deadline for registration and abstract submission is <span style="color:red">**Monday, April 10th 2017, 23:59 CET.**</span>~~
 
 The deadline has been extended until <span style="color:red">**Monday, April 24th 2017, 23:59 CET.**</span>
+-->
 
 
 ## Payment
@@ -45,15 +47,6 @@ Note that payments will have to be made **via bank transfer**. If you need an
 official invoice from ICIQ, please provide your full address and passport
 number in the registration form.
 
-<!--
-Payments are to be made via **bank transfer** to
-
-    Account Holder: Fundació Institut Català d'Investigació Química
-    IBAN: ES16 0081 0088 1300 0217 0525
-    BIC/SWIFT: BSABESBB
-    BANK: BANC SABADELL, S.A, C. Antoni Rovira i Virgili, 543002 Tarragona
-    Reference: YRM + Firstname Lastname
--->
 Deadline for payment is <span style="color:red">**Monday, April 17th 2017**</span>
 or one week after registration.
 
