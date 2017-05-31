@@ -59,34 +59,19 @@ Our panel will include
 
 Furthermore, the meeting will include a **session on the future of scientific
 publishing**. To discuss the opportunities created by fully digital publishing
-infrastructure, we are delighted to have with us
+infrastructure, we will be joined by
 
 *  <i>Prof. J. S. Caux, chairman of the [SciPost](https://scipost.org) Foundation</i>
 *  <i>Dr. Christian Gogolin, member of the [Quantum Journal](http://quantum-journal.org)
 executive board</i>.
 
-
+On Thursday, we are delighted to have Dr. Zeila Zanolli with us,
+who will remind us of the legacy of Mildred Dresselhaus, "the Queen of Carbon",
+who passed away this year at age 86.
 
 <!-- 
-A non-scientific talk on gender-issue on computational science is also scheduled.
-
 ## Programme
 <br>
 Mondays and Friday talks will take place in K-1.14 room of the King's Building (King’s College Strand Campus), while from Tuesday until Thursday in room K2.31. St. David's Room of the King's building will be designated for posters and the coffee breaks. For more information please refer to the [Venue](../venue/) section of the website.
 
-#### Monday
-
-* **09:30** - Registration and welcome speech
-* **10:00** - Industry session - **Tom Miller** (_Institute of Physics_)
-* **10:55** - Coffee break
-* **11:20** - Industry session - **John Hammersley** (_Overleaf_)
-* **12:15** - Industry session - **Ivan Rungger** (_National Physical Laboratory_)
-* **13:10** - Lunch
-* **14:40** - Q&A
-* **15:40** - Poster session and job market
-
-#### Tuesday
-
-* **09:30** - Introductory talk - **Chiara Gattinoni** (_University College London_) -
-* **10:20** -  Phonons, vibrations and thermal properties - **Giorgia Fugallo** (_Ecole Polytechnque, Paris_) - Keynote
  -->
