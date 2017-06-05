@@ -7,8 +7,6 @@ order: 1
 ---
 ## Schedule
 
-**Warning: Minor changes may still apply. The final schedule will be available at the meeting.**
-
 {::nomarkdown}
 <iframe src="https://docs.google.com/spreadsheets/d/1oF4J5JstQp8QPl49mK-G3SM1PKP_B4w5uzbie0t3HIk/pubhtml?widget=true&amp;headers=false&amp;rm=minimal"  width="695" height=620 frameborder=0 style:"border:0"></iframe>
 {:/nomarkdown}
