@@ -18,28 +18,34 @@ Each of the five topical sessions is introduced by an expert postdoc of the
 field who will provide a bird's-eye view of the topic and its challenges.
 
 * Session 1: **Structure prediction and phase transitions**<br>
-  <i>Keynote by Dr. José A. Flores Livas (University of Basel, Switzerland)</i><br>
+  <i>Keynote by Dr. José A. Flores Livas (University of Basel, Switzerland),<br>
+     hosted by Franziska Hegner (ICIQ, Spain)</i><br>
 Recent years have seen increasing efforts to deliver on an old promise of ab initio methods: to design novel materials with tailored properties in silico. The starting point of such investigations involves the prediction of the atomic structure of a material in its ground state and its dependence on external factors, such as temperature, pressure, etc.
 In this context, both the underlying methods and the search strategies have developed significantly: density functional theory (DFT) in the treatment of dispersion interactions, and searching methods with the introduction of genetic algorithms, ab initio random structure search and swarm intelligence.
 
 * Session 2: **Strongly correlated electrons and quantum magnetism**<br>
-  <i>Keynote by Dr. Hugo Strand (University of Fribourg, Switzerland)</i><br>
+  <i>Keynote by Dr. Hugo Strand (University of Fribourg, Switzerland),<br>
+  hosted by Dr. Sabine Körbel (Institute of Physics of the Czech Academy of Sciences)</i><br>
 Strongly correlated materials, such as transition metal oxides, pnictogens, and chalcogenides, display a plethora of exotic phenomena ranging from anomalous superconductivity, metal-insulator transitions, and Hund’s metallicity, to exciton condensation.<br>
 Conventional DFT fails to capture the low-energy physics, which is recovered in part by combining DFT with explicit local many-body methods, such as dynamical mean-field theory (DMFT), Slave-Bosons, and Gutzwiller wave-functions. Recent advances going beyond local correlations include extended DMFT+GW, higher-order self-consistent methods, and diagrammatic Monte Carlo.
 
 * Session 3: **Electronic excitations**<br>
-  <i>Keynotes by Dr. Michiel van Setten (Université catholique de Louvain, Belgium)<br>
-     and Dr. Sabine Körbel (Institute of Physics of the Czech Academy of Sciences)</i><br>
+  <i>Keynote by Dr. Michiel van Setten (Université catholique de Louvain, Belgium),<br>
+     hosted by Alena Vishina (King's College London, UK)<br>
+     Keynote by Dr. Sabine Körbel (Institute of Physics of the Czech Academy of Sciences),<br>
+     hosted by Vilhelmiina Kontkanen (University of Mons, Belgium and Tampere University of Technology, Finland)</i><br>
 The study of electronic excitations forms the core of theoretical spectroscopy. Charged excitations occur in (inverse) photoemission spectroscopy (XPS, UPS, IPES) and scanning tunneling spectroscopy (STS). Green's function methods are naturally adapted express the corresponding change in particle number and controlled approximations, such as GW, provide highly accurate fundamental gaps in quasiparticle spectra. Recent developments include ways of avoiding summation over empty states and analytical treatment of the frequency-dependence of the self-energy.
 Neutral excitations occur in optical and electron energy loss spectroscopy and can be addressed by time-dependent DFT or the Bethe-Salpeter equation. Both methods face important challenges, be it going beyond the adiabatic approximation (TDDFT) or reducing computational complexity (BSE). 
 
 * Session 4: **Vibrations and electron-phonon coupling**<br>
-  <i>Keynote by Dr. Samuel Poncé (University of Oxford, United Kingdom)</i><br>
+  <i>Keynote by Dr. Samuel Poncé (University of Oxford, United Kingdom),<br>
+     hosted by Benoit van Troye (Université Catholique de Louvain, Belgium)</i><br>
 The coupling between atomic vibrations and the electronic structure of materials plays a key role in phenomena ranging from superconductivity over piezoelectricity to thermoelectricity, affecting e.g. carrier mobility and thermalization rates, phonon-assisted optical absorption or the temperature-dependence of the electronic band structure. 
 Recent years have seen advances in the ab initio prediction of thermal and electronic conductivity, Tc in phonon-driven superconductivity as well as the impact of electron-phonon coupling on the optical spectra and electronic bandstructure of semiconductors and insulators.
 
 * Session 5: **Quantum transport and electron dynamics**<br>
-  <i>Keynote by Dr. Davide Sangalli (ISM Rome, Italy)</i><br>
+  <i>Keynote by Dr. Davide Sangalli (ISM Rome, Italy),<br>
+     hosted by Aurélie Champagne (Université Catholique de Louvain, Belgium)</i><br>
 The prediction of current/voltage characteristics for nanoscale junctions as well as understanding the charge and exciton dynamics in catalysts and photovoltaic materials are of key technological relevance. Yet, their prediction is notoriously challenging - DFT-based approaches suffer from self-interaction and lack of dynamic correlation, which can lead to gross overestimation of conductance in molecular junctions.
 Efforts to overcome these challenges include explicit treatment of correlation either by looking for better TDDFT functionals or by exploring non-equilibrium many-body approaches in exactly solvable model systems. More recently, non-equilibrium many-body approaches are also being applied to molecules and extended systems.
 
