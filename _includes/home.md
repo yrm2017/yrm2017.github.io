@@ -1,3 +1,5 @@
+![YRM participants]({{ site.url }}/assets/images/yrm2017_scaled.jpg)
+
 The [ETSF Young Researchers' Meeting](about) (YRM) is an annual workshop for
 postdocs, PhD students and Master students, who work on state-of-the-art
 theoretical and computational methods for the study of the electronic and
