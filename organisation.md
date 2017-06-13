@@ -41,6 +41,7 @@ For any questions regarding the YRM 2017, please contact [etsf.yrm2017@gmail.com
 * **Prof. Núria López**, ICIQ, Tarragona, Spain
 * **Prof. Lucia Reining**, Irradiated Solids Laboratory, École Polytechnique, Palaiseau, France
 * **Prof. Gian-Marco Rignanese**, Nanoscopic Physics Division, Université catholique de Louvain, Louvain-la-Neuve, Belgium
+* **Judit Martínez**, Event Manager, ICIQ, Tarragona, Spain
 
 ## Sponsors
 
