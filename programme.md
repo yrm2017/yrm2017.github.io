@@ -102,7 +102,7 @@ who passed away this year at age 86.
  * **12:10** *J. Abreu* - Efficient calculation of band gaps based on Koopman's compliant density functional theory
  * **12:35** *M. Vanzini* - Dynamic LDA for electronic excitations
  * **13:00** *Lunch*
- * **14:15** *C. Schäfer* - Quartic scaling MP2 for solids: A highly parallelized algorithm in the plane wave basis
+ * **14:15** *C. Schäfer* - Cavity-QED real-space resolved
  * **14:40** *F. Naccarato* - First principles high-throughput study for designing materials with high refractive index and large band gap
  * **15:05** *Keynote S. Körbel* - Optical properties from many-body methods
  * **15:55** *Poster Session  &  Refreshments*
