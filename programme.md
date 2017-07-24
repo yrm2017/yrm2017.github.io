@@ -11,7 +11,7 @@ order: 1
 <iframe src="https://docs.google.com/spreadsheets/d/1oF4J5JstQp8QPl49mK-G3SM1PKP_B4w5uzbie0t3HIk/pubhtml?widget=true&amp;headers=false&amp;rm=minimal"  width="695" height=620 frameborder=0 style:"border:0"></iframe>
 {:/nomarkdown}
 
-## Detailed Programme
+## Description
 <b></b>
 
 Each of the five topical sessions is introduced by an expert postdoc of the
@@ -73,9 +73,79 @@ On Thursday, we are delighted to have Dr. Zeila Zanolli with us,
 who will remind us of the legacy of Mildred Dresselhaus, "the Queen of Carbon",
 who passed away this year at age 86.
 
-<!-- 
-## Programme
-<br>
-Mondays and Friday talks will take place in K-1.14 room of the King's Building (King’s College Strand Campus), while from Tuesday until Thursday in room K2.31. St. David's Room of the King's building will be designated for posters and the coffee breaks. For more information please refer to the [Venue](../venue/) section of the website.
+## Talks
 
- -->
+### Monday, June 1st
+ * **09:15** *Registration & Coffee*
+ * **10:30** *Welcome*
+ * **11:20** *Keynote J. Flores-Livas* - Cutting edge structure prediction algorithms and in silico materials design
+ * **12:10** *T. Müller* - Towards ultra long-range ab-initio calculations
+ * **12:35** *S. Prokhorenko* - Fluctuations and topological defects in proper ferroelectrics
+ * **13:00** *Lunch*
+ * **14:15** *S. Poghosyan* - Magnetic Excitations in a polar antiferromagnet Ni<sub>3</sub>TeO<sub>6</sub>
+ * **14:40** *A. Gómez Pueyo* - Optimal control with non-adiabatic Molecular Dynamics: application to the Coulomb explosion of Sodium clusters.
+ * **15:05** *I. Rocha* - Optical properties of (BN)<sub>1-x</sub>(C<sub>2</sub>)<sub>x</sub> 2D alloys
+ * **15:30** *J. Lahnsteiner* - Room-temperature dynamic correlation between methylammonium molecules in lead-iodine based perovskites: An ab initio molecular dynamics perspective
+ * **15:55** *Coffee break*
+ * **16:20** *Keynote H. Strand* - A bird's eye view of the many-electron problem
+ * **17:10** *R. Ferradás* - Orbital Magnetization: a many-body approach
+ * **17:35** *F. Buchholz* - Reduced Density Matrix Theory for Fermion-Boson Coupled Systems
+ * **Evening** *Free*
+
+### Tuesday, June 2nd
+ * **09:15** *B. Ramberger* - Analytic Interatomic Forces in the Random Phase Approximation
+ * **09:40** *T. Schäfer* - Quartic scaling MP2 for solids: A highly parallelized algorithm in the plane wave basis
+ * **10:05** *M. Hodgson* - How is the derivative discontinuity related to steps in the exact Kohn-Sham potential?
+ * **10:30** *A. Vishina* - Fully relativistic Green’s function method
+ * **10:55** *Coffee break*
+ * **11:20** *Keynote M. van Setten* - The GW-method
+ * **12:10** *J. Abreu* - Efficient calculation of band gaps based on Koopman's compliant density functional theory
+ * **12:35** *M. Vanzini* - Dynamic LDA for electronic excitations
+ * **13:00** *Lunch*
+ * **14:15** *C. Schäfer* - Quartic scaling MP2 for solids: A highly parallelized algorithm in the plane wave basis
+ * **14:40** *F. Naccarato* - First principles high-throughput study for designing materials with high refractive index and large band gap
+ * **15:05** *Keynote S. Körbel* - Optical properties from many-body methods
+ * **15:55** *Poster Session  &  Refreshments*
+ * **Evening** *Tarragona city tour, 7pm*
+
+### Wednesday, June 3rd
+ * **09:15** *M. Panholzer* - A dynamic exchange correlation kernel derived from recent results for the homogeneous electron gas
+ * **09:40** *F. Paleari* - Optical absorption in boron nitride multilayers
+ * **10:05** *C. Wagner* - Excitonic effects in strained Carbon nanotubes
+ * **10:30** *C. Vorwerk* - Addressing electron-hole correlation in core excitations of solids: An all-electron many-body approach from first principles
+ * **10:55** *Coffee break*
+ * **11:20** *A. Nonell* - From a PhD student to a CEO of a company
+ * **12:10** *P. Puigdomènech* - HPC Tools for the industry
+ * **13:00** *Lunch*
+ * **14:15** *M. Corral* - The theorist in an applied catalysis research team: coping with preparation and deactivation issues. An example of interdisciplinary research at IFP Energies nouvelles.
+ * **14:40** *B. Ziebarth* - Computational material science at Bosch
+ * **15:30** *Q & A with researchers*
+ * **16:45** *Free time for discussions*
+ * **Evening** *Social dinner, 8:30pm*
+
+### Thursday, June 4th
+ * **10:05** *W. Aggoune* - Excitons in graphene/h-BN van der Waals heterostructures
+ * **10:30** *J. Koskelo* - Excitons in van der Waals materials: From monolayer to bulk hexagonal boron nitride
+ * **10:55** *Coffee break*
+ * **11:20** *Keynote S. Poncé* - The importance of electron-phonon coupling in solid-state materials.
+ * **12:10** *A. Geondzhian* - Understanding electron-phonon coupling in RIXS measurements
+ * **12:35** *A. Champagne* - Electronic and vibrational properties of V<sub>2</sub>C-based MXene: from experiments to first-principles modelling
+ * **13:00** *Lunch*
+ * **14:15** *G. Brunin* - First principles study of small polarons in LaCrO<sub>3</sub>
+ * **14:40** *M. Zahedifar* - Quantum well states and their coupling to phonons in thin multilayer Pb films on Si(111)
+ * **15:05** *Z. Zanolli* - M. S. Dresselhaus
+ * **15:55** *Coffee break*
+ * **16:20** *Keynote D. Sangalli* - Electron dynamics and quantum transport
+ * **17:10** *A. Morlet* - *Ab initio* study on the effects of carrier scattering on monolayer MoS2 absorption spectra
+ * **17:35** *H. Nguyën* - Influence of geometrical conformations on the conductance of gold--benzenedithiol junctions and beyond
+ * **Evening** *Beach Volleyball Tournament, 7pm*
+
+### Friday, June 5th
+ * **09:15** *S. Bhattacharya* - Crucial role of optimizing carrier concentrations when predicting novel thermoelectrics
+ * **09:40** *S. Dechamps* - Ab initio quantum transport in polycrystalline graphene
+ * **10:05** *J.S. Caux SciPost* - Open Access and beyond: SciPost
+ * **10:55** *Coffee break*
+ * **11:20** *C. Gogolin Quantum* - Quantum - the open journal for quantum science, a model for the future of scientific publishing?
+ * **12:10** *Q & A with publishers*
+ * **13:00** *Closing*
+
