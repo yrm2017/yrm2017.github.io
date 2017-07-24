@@ -73,7 +73,7 @@ On Thursday, we are delighted to have Dr. Zeila Zanolli with us,
 who will remind us of the legacy of Mildred Dresselhaus, "the Queen of Carbon",
 who passed away this year at age 86.
 
-## Talks
+## Detailed Programme
 
 ### Monday, June 1st
  * **09:15** *Registration & Coffee*
